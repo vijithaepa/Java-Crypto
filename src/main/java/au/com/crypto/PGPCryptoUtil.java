@@ -1,4 +1,4 @@
-package au.com.bglcorp;
+package au.com.crypto;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayOutputStream;
